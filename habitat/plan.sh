@@ -13,7 +13,7 @@
 # visit the Habitat Builder depot at https://bldr.habitat.sh/#/pkgs.
 
 pkg_name=sample-node-app
-pkg_origin=manny-rodriguez
+pkg_origin=habsup
 pkg_version="1.1.2"
 pkg_deps=(core/node)
 
